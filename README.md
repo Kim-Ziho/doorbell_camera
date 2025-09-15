@@ -1,6 +1,9 @@
 # Doorbell Camera (OpenCV + Motion Recording)
 
 > 간단한 도어벨 카메라 데모: 카메라 프리뷰를 띄우고 **사람/물체의 움직임을 감지하면 자동으로 녹화**합니다. 스페이스로 수동 녹화도 가능합니다.
+
+---
+
 ## Demo Video
 [![Demo Video](https://img.youtube.com/vi/lf5c-adCmag/0.jpg)](https://www.youtube.com/watch?v=lf5c-adCmag)
 
