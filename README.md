@@ -4,6 +4,8 @@
 ## Demo Video
 [![Demo Video](https://img.youtube.com/vi/lf5c-adCmag/0.jpg)](https://www.youtube.com/watch?v=lf5c-adCmag)
 
+---
+
 ## 주요 기능
 - **실시간 프리뷰** (OpenCV HighGUI)
 - **자동 녹화 (Motion-triggered)**: 움직임이 일정 임계치 이상이면 자동 시작, 조용해지면 포스트롤 후 정지
